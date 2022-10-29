@@ -1,0 +1,79 @@
+[
+	{
+		"game": "Destiny 1",
+		"nest" : [
+			
+			{
+				"release": "d1",
+				"universe": {
+					"class": "Titan",
+					"characteristics": {
+						"subclass": ["Defender"],
+						"super": ["Ward of Dawn"]
+					}
+				}
+			},
+
+			{
+				"release": "d1",
+				"universe": {
+					"class": "Hunter",
+					"characteristics": {
+						"subclass": ["Bladedancer"],
+						"super": ["Arc Blade"]
+					}
+				}
+			},
+
+			{
+				"release": "d1",
+				"universe": {
+					"class": "Warlock",
+					"characteristics": {
+						"subclass": ["Sunsigner"],
+						"super": ["Radiance"]
+					}
+				}
+			}
+		]
+	},
+
+	{
+		"game": "Destiny 2",
+		"nest" : [
+			
+			{
+				"release": "d2",
+				"universe": {
+					"class": "Titan",
+					"characteristics": {
+						"subclass": ["Sunbreaker", "Sentinel", "Striker"],
+						"super": ["Hammer of Sol", "Sentinel Shield", "Fist of Havoc"]
+					}
+				}
+			},
+
+			{
+				"release": "d2",
+				"universe": {
+					"class": "Hunter",
+					"characteristics": {
+						"subclass": ["Gunslinger", "Nightstalker", "Arcstrider"],
+						"super": ["Golden Gun", "Shadowshot", "Arc Staff"]
+					}
+				}
+			},
+
+			{
+				"release": "d3",
+				"universe": {
+					"class": "Warlock",
+					"characteristics": {
+						"subclass": ["Dawnblade", "Voidwalker", "Stormcaller"],
+						"super": ["Daybreak", "Nova Bomb", "Stormtrance"]
+					}
+				}
+			}
+		]
+	}
+]
